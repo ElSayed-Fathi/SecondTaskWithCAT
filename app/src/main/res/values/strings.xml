@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondTaskWithCAT</string>
+    <string name="edittext_hint">Write yor number</string>
+    <string name="textview_content">here is what you wrote</string>
+    <string name="showTheText_BTN">show the text </string>
+    <string name="searchTheWeb_BTN">search the web</string>
+</resources>

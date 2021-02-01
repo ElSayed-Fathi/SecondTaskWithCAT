@@ -1,0 +1,2 @@
+rootProject.name='SecondTaskWithCAT'
+include ':app'
